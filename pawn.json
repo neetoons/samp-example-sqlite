@@ -1,0 +1,12 @@
+{
+	"user": "neetoons",
+	"website": "https://youtube.com/@neetoons",
+	"repo": "samp-example-sqlite",
+	"tag": "0.0.1",
+	"entry": "gamemodes/main.pwn",
+	"output": "gamemodes/main.amx",
+	"dependencies": [
+		"pawn-lang/samp-stdlib"
+	],
+	"local": true
+}
