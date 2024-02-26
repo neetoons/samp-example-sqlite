@@ -5,7 +5,6 @@
 En esta gamemode base enseño a hacer una base de datos básica para SA-MP SQLite desde 0 sin plugins. Si tienes alguna pregunta no dudes en preguntar en la caja de comentarios y no te olvides de darle like y suscribirte, ayudarias al crecer al canal para más videos.
 
 ## 🌐Redes:
-╭━━━━━━ Discord ━━━━━╮
 https://discord.gg/eTYVpTaAUz
 
 Wiki SAMP: https://open.mp/docs/
